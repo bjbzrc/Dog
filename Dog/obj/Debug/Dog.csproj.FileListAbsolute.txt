@@ -1,0 +1,7 @@
+C:\Users\BJB\source\repos\Dog\Dog\bin\Debug\Dog.exe.config
+C:\Users\BJB\source\repos\Dog\Dog\bin\Debug\Dog.exe
+C:\Users\BJB\source\repos\Dog\Dog\bin\Debug\Dog.pdb
+C:\Users\BJB\source\repos\Dog\Dog\obj\Debug\Dog.csprojAssemblyReference.cache
+C:\Users\BJB\source\repos\Dog\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\BJB\source\repos\Dog\Dog\obj\Debug\Dog.exe
+C:\Users\BJB\source\repos\Dog\Dog\obj\Debug\Dog.pdb
